@@ -12,16 +12,18 @@ The gcrNet technical technical team is charged to carry out this standard. The r
 
 ### User Accounts
 
-All gcrNet user objects will be in the format of: (first name).(last name)##@gcrnet.org where first and last name are strings and ## is an optional numerical increment. For example:
+All gcrNet user objects will be in the format of: (first initial)(last name)##@gcrnet.org where first and last name are strings and ## is an optional numerical increment. Usersnames are limited to 12 characters.
 
-* user John Doe would have the username of john.doe@gcrnet.org
-* A 2nd user named John Doe, the 2nd username would be john.doe2@gcrnet.org.
+For example:
+
+* user John Doe would have the username of jdoe@gcrnet.org
+* A 2nd user named John Doe, the 2nd username would be jdoe2@gcrnet.org.
 
 ### Groups
 
-All gcrNet group objects will be in the format of: g-(name) where name is a descriptive string. Multiple word are separated by the '-' character  For example:
+All gcrNet group objects are comprised of a descriptive all lowercase string with no spaces. Multiple word are separated by the '-' character  For example:
 
-* group 'Technical Team' would have the group name of g-technical-team
+* group 'gcrNet Technical Team' would have the group name of gcrnet-technical-team or technical-team where gcrNet is implied.
 
 ### Service Accounts
 
