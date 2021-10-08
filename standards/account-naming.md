@@ -12,7 +12,7 @@ The gcrNet technical technical team is charged to carry out this standard. The r
 
 ### User Accounts
 
-All gcrNet user objects will be in the format of: (first initial)(last name)##@gcrnet.org where first and last name are strings and ## is an optional numerical increment. Usersnames are limited to 12 characters.
+All gcrNet user objects will be in the format of: (first initial)(last name)##@gcrnet.org where first and last name are strings and ## is an optional numerical increment. Usernames are limited to 12 characters.
 
 For example:
 
