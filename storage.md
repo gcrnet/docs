@@ -9,7 +9,9 @@ Network storage is part of the gcrNet core services provided. This includes stor
 
 ## Home Directories
 
-Home directories are provided to all gcrNet user accounts. This storage is provided by a RAID 5 storage group on GenLogin, with a total of xTB storage available.
+Home directories are provided to all gcrNet user accounts. This storage is provided by a RAID 5 storage group on GenLogin, with a total of 6.6TB available storage.
+
+The default user quota is 50GB hard/soft limits.
 
 ## Project Storage
 
