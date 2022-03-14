@@ -8,7 +8,14 @@ The internal network is connected at 100G and supports high speed transfers from
 
 ## The Physical Network
 
-(Description of the physical network goes here)
+The physical network is deployed across the UNC Greensboro main campus, the Joint School of Nanoscience and Nanoengineering (JSNN), and the North Carolina State A&T University main campus. Information on physical locations where the gcrNet is available can be found below:
+
+| Campus | Building | Floor | Notes |
+| ----- | -------- | ----- | ----- |
+| UNC Greensboro | McNutt | 1st | Core network, inside the datacenter |
+| JSNN | ?? | 1st | 102 Lab |
+| UNC Greensboro | Pettey | TBD | |
+| UNC Greensboro | Sullivan Science | TBD | |
 
 ## External Access
 
