@@ -31,13 +31,11 @@ Scratch space is available to all gcrNet users and is located on the Data Transf
 
 gcrNet storage can be accessed in two ways: directly on the gcrNet and through Globus. Direct access is available when connected to the gcrNet allowing the user to store data from insturmentation or compute environments located on the network. Globus access provides a way for users to access, share, and transfer data outside of the gcrNet.
 
-** Note - Globus and direct permissions do not match. **
-
 ### Globus Access
 
-Home directories are made available in Globus using a Guest Collection that is shared with the users home institution username.
+Home directories are made available in Globus using the mapped collection named 'gcrNet DTN - Users'. 
 
-Each project directory is shared with the PI using the PIs home institution username. The PI can then share with additional project members.
+Each project directory is available using the mapped collection 'gcrNet DTN - Projects'. The PI can then share with additional project members.
 
 ### Direct Access
 
