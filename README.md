@@ -32,29 +32,3 @@ The gcrNet is a Science DMZ and therefore does not operate like a traditional ca
 *Simply put: the gcrNet is built for scientific insturmentation and not desktop computing.*
 
 More information about the network is located on the [Network](network.md) page.
-
-# Frequently Asked Questions
-
-## Q. What is a Science DMZ?
-
-A.
-
-## Q. Who can use the gcrNet?
-
-A.
-
-## Q. How do I connect to the gcrNet?
-
-A.
-
-## Q. How do I get data in and out of the gcrNet?
-
-A.
-
-## Q. What is a Data Transfer Node (DTN)?
-
-A.
-
-## Q. Can I connect my laptop to the gcrNet?
-
-A.
